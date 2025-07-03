@@ -2,8 +2,9 @@
 
 ### 💡 About Me
 
-- 💻 Web & Linux developer
+- 💻 Web developer
 - ⚡ I’m currently learning Nextjs
+- 🌱 I love linux
 
 ---
 
