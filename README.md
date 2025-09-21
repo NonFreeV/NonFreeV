@@ -3,7 +3,7 @@
 ### 💡 About Me
 
 - 💻 Web developer
-- ⚡ I’m currently learning Crystal Lang
+- ⚡ I’m currently learning Crystal Language
 - 🌱 I love linux
 
 ---
