@@ -3,7 +3,7 @@
 ### 💡 About Me
 
 - 💻 Web developer
-- ⚡ I’m currently learning Nextjs
+- ⚡ I’m currently learning @crystal-lang
 - 🌱 I love linux
 
 ---
